@@ -1,0 +1,14 @@
+{
+  "preamble": {
+    "title": "aiken-lang/nft-sentimental-based-listing-fee",
+    "description": "Aiken contracts for project 'aiken-lang/nft-sentimental-based-listing-fee'",
+    "version": "0.0.0",
+    "plutusVersion": "v3",
+    "compiler": {
+      "name": "Aiken",
+      "version": "v1.1.4+unknown"
+    },
+    "license": "Apache-2.0"
+  },
+  "validators": []
+}
